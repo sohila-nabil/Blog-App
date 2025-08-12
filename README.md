@@ -31,8 +31,8 @@ A full-stack **MERN Blog Application** with separate **Admin Dashboard** and **P
 ---
 
 ## 📽️ Demo Video
-https://user-images.githubusercontent.com/your-github-username/video-id.mp4
 
+ https://drive.google.com/file/d/1cgPDcwihO9QTK7e5WsVOIM3H6Q8GsZoq/view?usp=sharing
 *(Click the link to watch the demo video)*
 
 ---
